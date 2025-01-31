@@ -1,3 +1,19 @@
+# TOKEN CREATION (ERC-20)
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: G SOMA SHEKAR
+
+INTERN ID: CT08HPM
+
+DOMAIN: BLOCKCHAIN TECHNOLOGIES
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
@@ -26,3 +42,12 @@ Output from script will appear in remix terminal.
 Please note, require/import is supported in a limited manner for Remix supported modules.
 For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
+
+
+
+
+#Output
+
+![Image](https://github.com/user-attachments/assets/013a1ac9-3286-4ec3-9506-43514020b159)
+![Image](https://github.com/user-attachments/assets/f2f33c59-719c-434f-8ed1-927062f272c4)
+![Image](https://github.com/user-attachments/assets/6718e5b7-494c-4bfb-b5df-5e09515cb8ae)
